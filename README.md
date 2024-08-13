@@ -4,8 +4,9 @@
 <h1 align="center">Hi 👋, I'm Tharindu Darshana Dehipitiya</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 👀 I’m interested in Software Development & Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍🎓 I’m a student in BSc.(Hons) in Information Technology at University of Sri Jayewardenepura, Sri Lanka.
 - 📫 How to reach me:-
      - Discord -  [tharindu8374](https://discord.com/users/1111999629572190269)
