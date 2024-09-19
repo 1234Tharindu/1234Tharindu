@@ -21,8 +21,6 @@
 ## 📜 Other:
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1111999629572190269)](https://discord.com/users/1111999629572190269)
-
 [![github-views](https://komarev.com/ghpvc/?username=1234Tharindu&style=for-the-badge)](https://github.com/1234Tharindu)
 
 
